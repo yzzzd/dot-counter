@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotsCounterBaseView">
+        <attr name="counter_defaultColor" format="color" />
+        <attr name="counter_selectedColor" format="color" />
+        <attr name="counter_selectedColorShadow" format="color" />
+        <attr name="counter_circleRadius" format="dimension" />
+        <attr name="counter_circleRadiusShadow" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="CircularDotsCounter">
+        <attr name="counter_bigCircleRadius" format="dimension" />
+    </declare-styleable>
+</resources>
